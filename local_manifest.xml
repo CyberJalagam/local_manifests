@@ -2,9 +2,9 @@
 <manifest>
 
   <!-- Trees -->
-  <project path="device/oppo/CPH1859" name="kardebayan/device_oppo_CPH1859" remote="github" revision="full-vndk" />
-  <project path="vendor/oppo/CPH1859" name="kardebayan/vendor_oppo_CPH1859" remote="github" revision="full-vndk" />
-  <project path="kernel/oppo/CPH1859" name="stormbreaker-project/kernel_oppo_CPH1859" remote="github" revision="alps-rebase" />
+  <project path="device/oppo/CPH1859" name="CyberJalagam/device_oppo_CPH1859" remote="github" revision="11-oss" />
+  <project path="vendor/oppo/CPH1859" name="CyberJalagam/vendor_oppo_CPH1859" remote="github" revision="11-oss" />
+  <project path="kernel/oppo/CPH1859" name="CyberJalagam/kernel_oppo_CPH1859" remote="github" revision="inline" />
 
   <!-- SEPolicy -->
   <project path="device/mediatek/sepolicy_vndr" name="PixelExperience/device_mediatek_sepolicy_vndr" remote="github" revision="eleven" />
