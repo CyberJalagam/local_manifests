@@ -2,11 +2,9 @@
 <manifest>
 
   <!-- Trees -->
-  <project path="device/oppo/CPH1859" name="CyberJalagam/device_oppo_CPH1859" remote="github" revision="11-oss" />
-  <project path="vendor/oppo/CPH1859" name="CyberJalagam/vendor_oppo_CPH1859" remote="github" revision="11-oss" />
-  <project path="kernel/oppo/CPH1859" name="CyberJalagam/kernel_oppo_CPH1859" remote="github" revision="inline" />
+  <project path="device/oppo/CPH1859" name="CPH1859/android_device_oppo_CPH1859" remote="github" revision="eleven-ims" />
+  <project path="vendor/oppo/CPH1859" name="CPH1859/proprietary_vendor_oppo_CPH1859" remote="github" revision="eleven-ims" />
+  <project path="kernel/oppo/mt6771" name="CPH1859/android_kernel_oppo_mt6771" remote="github" revision="alps" />
 
-  <!-- SEPolicy -->
-  <project path="device/mediatek/sepolicy_vndr" name="PixelExperience/device_mediatek_sepolicy_vndr" remote="github" revision="eleven" />
   
 </manifest>
